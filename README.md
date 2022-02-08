@@ -23,3 +23,6 @@ After correct compiling and running :
 ![readme2](https://user-images.githubusercontent.com/92050925/153087723-d44c6528-5d62-408f-a84f-69abe7fb9eb5.png)
 
 At last, I would like to thank my course lecturer, Prof.Khosravi, who explained the concepts of the lesson greatly.
+
+https://github.com/ramtung
+https://github.com/UTAP/RSDL
