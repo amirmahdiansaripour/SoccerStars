@@ -8,8 +8,10 @@ For running the code , it's required to have the RSDL library and some pictures
 related to the events in the game (all included in the repository).
 
 How to run : 
-
-`make
+`
+make
+`
+`
 ./soccerStars.out
 `
 
