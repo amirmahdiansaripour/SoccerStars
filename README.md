@@ -22,7 +22,7 @@ After correct compiling and running :
 ![readme1](https://user-images.githubusercontent.com/92050925/153086826-93023d2c-3510-4b91-ac9d-df722caed372.png)
 ![readme2](https://user-images.githubusercontent.com/92050925/153087723-d44c6528-5d62-408f-a84f-69abe7fb9eb5.png)
 
-At last, I would like to thank my course lecturer, Prof.Khosravi, who explained the concepts of the lesson greatly.
+I would like to thank the course professor, Prof.Khosravi, who explained the course concepts perfectly.
 
 https://github.com/ramtung
 
